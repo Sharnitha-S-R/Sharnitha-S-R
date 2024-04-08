@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am sharnitha
+I love sighting
+
 <!--
 **Sharnitha-S-R/Sharnitha-S-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
